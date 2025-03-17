@@ -70,7 +70,7 @@ Add a ENV FILE with:
 DOWNLOAD_API_URL=https://v1.api.ani.rohi.dev/api/dramacool
 CONSUMET_API_URL=https://consumet_api_url (deploy your own with the instructions below, dont end with slash)
 TMDB_API_KEY=(get your own api key with the instructions below)
-PROXY_M3U8 = "https://yourproxy.com/fetch?url=
+PROXY_M3U8 = "https://yourproxy.com/fetch?url=""
 
 # PROXY_M3U8 would be found at https://github.com/Rawknee-69/Hianime-proxy . add it like this https://yourproxy.com/fetch?url=
 ```
